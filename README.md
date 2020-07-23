@@ -30,7 +30,7 @@
 ## WEB前端
 
 -  [Web认知](./frontend/know.md)
--  HTML
+-  [HTML(深入)](./frontend/html.md)
 -  CSS
 -  Javascript
    -  语言核心
