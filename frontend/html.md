@@ -1,4 +1,5 @@
 # HTML 知识点
+[查看思维导图](./../minds/html.svg)
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
